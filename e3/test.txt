@@ -1,0 +1,84 @@
+Added restaurant Red Lobster.
+Added restaurant GOT7.
+Duplicate restaurant not added.
+Red Lobster: Seafood at low prices - 0 active reservations
+GOT7: GOTTTTTTTTTT7 - 0 active reservations
+Red Lobster: Seafood at low prices - 0 active reservations
+Added reservation at Red Lobster on Mar 17 2019 at 5:15 p.m. for 5 people.
+Added reservation at Red Lobster on Mar 15 2019 at 12:15 p.m. for 4 people.
+Added reservation at Red Lobster on Mar 17 2019 at 1:15 p.m. for 3 people.
+Added reservation at GOT7 on Mar 17 2019 at 1:30 p.m. for 3 people.
+Added reservation at GOT7 on Mar 17 2019 at 2:14 p.m. for 3 people.
+Added reservation at GOT7 on Mar 17 2019 at 2:16 p.m. for 3 people.
+Added reservation at GOT7 on Mar 17 2019 at 2:00 p.m. for 3 people.
+Added reservation at Red Lobster on Mar 17 2019 at 1:30 p.m. for 9 people.
+Red Lobster: Seafood at low prices - 4 active reservations
+GOT7: GOTTTTTTTTTT7 - 4 active reservations
+Red Lobster: Seafood at low prices - 4 active reservations
+GOT7: GOTTTTTTTTTT7 - 4 active reservations
+Reservations for GOT7:
+- Mar 17 2019, 1:30 p.m., table for 3
+- Mar 17 2019, 2:00 p.m., table for 3
+- Mar 17 2019, 2:14 p.m., table for 3
+- Mar 17 2019, 2:16 p.m., table for 3
+Reservations for Red Lobster:
+- Mar 15 2019, 12:15 p.m., table for 4
+- Mar 17 2019, 1:15 p.m., table for 3
+- Mar 17 2019, 1:30 p.m., table for 9
+- Mar 17 2019, 5:15 p.m., table for 5
+Number of restaurants: 2
+Number of total reservations: 8
+Busiest restaurant: Red Lobster
+System started at: Nov 17 2019, 6:55 p.m.
+Added restaurant KFC.
+KFC: FRIED CHICKEN - 0 active reservations
+Number of restaurants: 3
+Number of total reservations: 8
+Busiest restaurant: Red Lobster
+System started at: Nov 17 2019, 6:55 p.m.
+Reservations for Red Lobster:
+- Mar 15 2019, 12:15 p.m., table for 4
+- Mar 17 2019, 1:15 p.m., table for 3
+- Mar 17 2019, 1:30 p.m., table for 9
+- Mar 17 2019, 5:15 p.m., table for 5
+Checked off reservation on Mar 15 2019, 12:15 p.m., table for 4
+Number of restaurants: 3
+Number of total reservations: 7
+Busiest restaurant: GOT7
+System started at: Nov 17 2019, 6:55 p.m.
+Reservations for Red Lobster:
+- Mar 17 2019, 1:15 p.m., table for 3
+- Mar 17 2019, 1:30 p.m., table for 9
+- Mar 17 2019, 5:15 p.m., table for 5
+Reservations in the next hour:
+- GOT7: Mar 17 2019, 1:30 p.m., table for 3
+- Red Lobster: Mar 17 2019, 1:30 p.m., table for 9
+- GOT7: Mar 17 2019, 2:00 p.m., table for 3
+- GOT7: Mar 17 2019, 2:14 p.m., table for 3
+- GOT7: Mar 17 2019, 2:16 p.m., table for 3
+Reservations for Red Lobster:
+- Mar 17 2019, 2:15 p.m., table for 3
+- Mar 17 2019, 2:30 p.m., table for 9
+- Mar 17 2019, 6:15 p.m., table for 5
+Reservations for Red Lobster:
+- Mar 17 2019, 2:15 p.m., table for 3
+- Mar 17 2019, 2:30 p.m., table for 9
+- Mar 17 2019, 6:15 p.m., table for 5
+Added reservation at Red Lobster on Mar 17 2019 at 2:29 p.m. for 6 people.
+Added reservation at GOT7 on Mar 17 2019 at 3:29 p.m. for 6 people.
+Added reservation at KFC on Mar 17 2019 at 3:30 p.m. for 2 people.
+Reservations in the next hour:
+- Red Lobster: Mar 17 2019, 2:30 p.m., table for 9
+- GOT7: Mar 17 2019, 3:29 p.m., table for 6
+Reservations for GOT7:
+- Mar 17 2019, 2:30 p.m., table for 3
+- Mar 17 2019, 3:00 p.m., table for 3
+- Mar 17 2019, 3:14 p.m., table for 3
+- Mar 17 2019, 3:16 p.m., table for 3
+- Mar 17 2019, 4:29 p.m., table for 6
+Reservations in the next hour:
+- GOT7: Mar 17 2019, 2:30 p.m., table for 3
+- Red Lobster: Mar 17 2019, 2:30 p.m., table for 9
+- GOT7: Mar 17 2019, 3:00 p.m., table for 3
+- GOT7: Mar 17 2019, 3:14 p.m., table for 3
+- GOT7: Mar 17 2019, 3:16 p.m., table for 3
